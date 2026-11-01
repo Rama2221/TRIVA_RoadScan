@@ -1,0 +1,76 @@
+{
+  "version": "RoadScan Submission Dataset",
+  "total_images": 8100,
+  "rdd_images": 8000,
+  "saudi_images": 100,
+  "splits": {
+    "test": {
+      "images": 799,
+      "boxes": 1437,
+      "class_boxes": {
+        "longitudinal_crack": 360,
+        "transverse_crack": 360,
+        "alligator_crack": 358,
+        "pothole": 359
+      }
+    },
+    "train": {
+      "images": 6404,
+      "boxes": 11662,
+      "class_boxes": {
+        "longitudinal_crack": 2972,
+        "transverse_crack": 2883,
+        "alligator_crack": 2916,
+        "pothole": 2891
+      }
+    },
+    "val": {
+      "images": 797,
+      "boxes": 1433,
+      "class_boxes": {
+        "longitudinal_crack": 357,
+        "transverse_crack": 357,
+        "alligator_crack": 360,
+        "pothole": 359
+      }
+    },
+    "saudi_test": {
+      "images": 100,
+      "boxes": 195,
+      "class_boxes": {
+        "longitudinal_crack": 103,
+        "transverse_crack": 53,
+        "alligator_crack": 12,
+        "pothole": 27
+      }
+    }
+  },
+  "class_names": [
+    "longitudinal_crack",
+    "transverse_crack",
+    "alligator_crack",
+    "pothole"
+  ],
+  "saudi_role": "external_test_only",
+  "saudi_annotation_status": "Independent annotation confirmation pending",
+  "semantic_cleanliness_100_percent_certified": false,
+  "scene_independence_certified": false,
+  "limitations": [
+    "The Saudi subset is public external data, not photographs collected by the project team.",
+    "Some local photographs are successive views of the same road or defect.",
+    "Annotation completeness and physical scene independence are not independently certified.",
+    "Published metrics refer to the documented dataset and evaluation protocol."
+  ],
+  "sources": [
+    {
+      "name": "RDD2022",
+      "url": "https://github.com/sekilab/RoadDamageDetector",
+      "release": "https://figshare.com/articles/dataset/21431547"
+    },
+    {
+      "name": "SaudiRD2 v2",
+      "url": "https://universe.roboflow.com/manalbitesbytes/saudird-2/dataset/2",
+      "license": "CC BY 4.0"
+    }
+  ]
+}

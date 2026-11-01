@@ -1,0 +1,10 @@
+{
+  "service_tests_passed": 10,
+  "source_syntax_files": 11,
+  "stage_notebooks": 6,
+  "dashboard_ui": "passed with controlled detector fixtures",
+  "detector_sha256": "49f92ee3281443fcab6d7b9b388d4b8b996751c2912a8c26800860ced83e62a8",
+  "dataset_file_fingerprints": "all original image and label hashes preserved",
+  "model_metric_source": "existing saved RF-DETR evaluation",
+  "verification_scope": "service logic, user interface, source integrity and packaging; no new model training"
+}

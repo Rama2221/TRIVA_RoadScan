@@ -1,0 +1,5 @@
+{
+  "torch": "2.11.0+cu130",
+  "rfdetr": "1.11.2",
+  "requested_total_epochs": 20
+}

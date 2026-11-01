@@ -1,0 +1,3 @@
+split,images,mean_priority,mean_truth_priority,MAE_vs_truth,spearman_vs_truth,band_agreement,needs_review_images
+saudi_test,100,70.567,75.976,8.623,0.652,0.720,43
+test,799,61.770,64.108,9.038,0.786,0.713,288

@@ -1,0 +1,14 @@
+{
+  "dataset_source": "../RoadScan_Dataset",
+  "dataset_root": "../RoadScan_Dataset",
+  "output_dir": "results/evaluation",
+  "work_dir": "runtime/work",
+  "rf_run_source": "models/training",
+  "rf_backup": "",
+  "rf_weights": "models/deployment/rf_small.pth",
+  "frozen_selection": "configs/detector_selection.json",
+  "deployment_package": "models/deployment",
+  "state_dir": "runtime/reports",
+  "duplicate_pairs": "data/duplicate_pairs.csv",
+  "device": "cpu"
+}

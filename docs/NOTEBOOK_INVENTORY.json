@@ -1,0 +1,152 @@
+[
+  {
+    "path": "notebooks/01_Preprocessing.ipynb",
+    "cells": 14,
+    "executed_cells": 5,
+    "output_cells": 5,
+    "saved_png_outputs": 8,
+    "errors": []
+  },
+  {
+    "path": "notebooks/02_ResNet18_Baseline.ipynb",
+    "cells": 16,
+    "executed_cells": 3,
+    "output_cells": 6,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/03_Detection_RFDETR.ipynb",
+    "cells": 39,
+    "executed_cells": 23,
+    "output_cells": 20,
+    "saved_png_outputs": 18,
+    "errors": []
+  },
+  {
+    "path": "notebooks/04_Similarity.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/05_Application.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/06-Roadscan-AllExperiments.ipynb",
+    "cells": 29,
+    "executed_cells": 18,
+    "output_cells": 12,
+    "saved_png_outputs": 6,
+    "errors": []
+  },
+  {
+    "path": "notebooks/previous_models/01_RoadScan_HeldOutCountry_20Epochs_WithRun.ipynb",
+    "cells": 16,
+    "executed_cells": 13,
+    "output_cells": 7,
+    "saved_png_outputs": 1,
+    "errors": []
+  },
+  {
+    "path": "notebooks/previous_models/01_YOLO_Version_Search/RoadScan_YOLO_VersionCompare (3).ipynb",
+    "cells": 33,
+    "executed_cells": 15,
+    "output_cells": 15,
+    "saved_png_outputs": 21,
+    "errors": []
+  },
+  {
+    "path": "notebooks/previous_models/02_YOLO26n_FineTuning/RoadScan_YOLO26n_FineTuning (1) (1).ipynb",
+    "cells": 20,
+    "executed_cells": 18,
+    "output_cells": 17,
+    "saved_png_outputs": 2,
+    "errors": []
+  },
+  {
+    "path": "notebooks/previous_models/03_SAHI/RoadScan_YOLO26n_SAHI_Results.ipynb",
+    "cells": 21,
+    "executed_cells": 11,
+    "output_cells": 8,
+    "saved_png_outputs": 9,
+    "errors": []
+  },
+  {
+    "path": "notebooks/previous_models/04_Latest_YOLO_Benchmark/yolo-comparison (1).ipynb",
+    "cells": 33,
+    "executed_cells": 10,
+    "output_cells": 9,
+    "saved_png_outputs": 8,
+    "errors": []
+  },
+  {
+    "path": "notebooks/reference_templates/01_Preprocessing.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/reference_templates/01_Preprocessing_Workspace_Snapshot.ipynb",
+    "cells": 4,
+    "executed_cells": 2,
+    "output_cells": 1,
+    "saved_png_outputs": 0,
+    "errors": [
+      {
+        "cell": 2,
+        "name": "FileNotFoundError",
+        "message": "[Errno 2] No such file or directory: 'C:\\\\Users\\\\ASUS\\\\OneDrive\\\\المستندات\\\\AIEP\\\\Project\\\\RoadScan_Delivery_20261101\\\\RoadScan_Dataset\\\\dataset_version.json'"
+      }
+    ]
+  },
+  {
+    "path": "notebooks/reference_templates/02_Classification.ipynb",
+    "cells": 9,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/reference_templates/03_Detection.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/reference_templates/04_Priority.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/reference_templates/05_Similarity.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  },
+  {
+    "path": "notebooks/reference_templates/06_Application.ipynb",
+    "cells": 3,
+    "executed_cells": 0,
+    "output_cells": 0,
+    "saved_png_outputs": 0,
+    "errors": []
+  }
+]

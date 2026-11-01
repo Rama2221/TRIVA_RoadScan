@@ -1,0 +1,57 @@
+{
+  "detector": {
+    "model": "RF-DETR Small",
+    "learning": "supervised object detection",
+    "status": "fine-tuned checkpoint supplied",
+    "weights_sha256": "49f92ee3281443fcab6d7b9b388d4b8b996751c2912a8c26800860ced83e62a8",
+    "selection": "validation-selected EMA checkpoint",
+    "input_resolution": 512,
+    "operating_thresholds": [
+      0.33,
+      0.33,
+      0.33,
+      0.33
+    ]
+  },
+  "classifier": {
+    "model": "ResNet18",
+    "learning": "supervised multi-label classification",
+    "initialization": "ImageNet",
+    "status": "baseline implementation; final matched evaluation not supplied"
+  },
+  "retrieval": {
+    "model": "DINOv2 Small",
+    "learning": "self-supervised pretraining; frozen features",
+    "status": "candidate retrieval; no labelled distinct-view duplicate benchmark"
+  },
+  "priority": {
+    "learning": "deterministic rules",
+    "status": "implemented and evaluated against annotation-derived scores"
+  },
+  "evaluation": {
+    "source": "saved evaluation outputs",
+    "rdd_test_images": 799,
+    "saudi_test_images": 100,
+    "historical_training_split_alignment": "not independently verified",
+    "saudi_annotation_quality": "independent confirmation pending",
+    "country_holdout": "no completed country-holdout results supplied"
+  },
+  "application": {
+    "interface": "Streamlit",
+    "input": "single or batch road images",
+    "device": "CPU",
+    "default_threshold": 0.33,
+    "default_resolution": 512,
+    "outputs": [
+      "annotated images",
+      "priority",
+      "confidence",
+      "CSV",
+      "JSON"
+    ],
+    "detector_timing": "model prediction and confidence filtering; excludes model loading and UI rendering",
+    "backend": "separate FastAPI and SQLite reporting service",
+    "dashboard_duplicate_matching": false,
+    "entrypoint": "notebooks/application/app.py"
+  }
+}

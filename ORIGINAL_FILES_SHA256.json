@@ -1,0 +1,1127 @@
+[
+  {
+    "path": "configs/detector_selection.json",
+    "bytes": 669,
+    "sha256": "d0eaf0d7905f14334311db181eb739a9874f4ef7267f1d7a824b8f7607e189c9"
+  },
+  {
+    "path": "configs/project.json",
+    "bytes": 480,
+    "sha256": "5a6bc2c8cdf8c4414886fbe003209c9aa2c08df6271ebc5d999b6d5b5de01886"
+  },
+  {
+    "path": "models/deployment/deployment_config.json",
+    "bytes": 1487,
+    "sha256": "b7c23541e5531a6d0ea579d59b36cae8705945f234c972d00a2486a14ca84da4"
+  },
+  {
+    "path": "models/deployment/dinov2_encoder/config.json",
+    "bytes": 547,
+    "sha256": "1809f83e3bdb1609a501a610ad4a742f4fd8ae44d72ca4aa0df52d1f2ac8628d"
+  },
+  {
+    "path": "models/deployment/dinov2_encoder/model.safetensors",
+    "bytes": 88249960,
+    "sha256": "ae1e99fcefd534ed978cdeb8326f08030c96e28b7a81ffcbc98a857c84d14be1"
+  },
+  {
+    "path": "models/deployment/dinov2_encoder/preprocessor_config.json",
+    "bytes": 436,
+    "sha256": "14e780d86fa1861f8751f868d7f45425b5feb55c38ca26f152ca5097ab30f828"
+  },
+  {
+    "path": "models/deployment/retrieval_provenance.json",
+    "bytes": 520,
+    "sha256": "8acacb9eaefa5c0dc2eba7d16095859b550838719ec8209bd8fd6731c2160c6f"
+  },
+  {
+    "path": "models/deployment/rf_small.pth",
+    "bytes": 127534847,
+    "sha256": "49f92ee3281443fcab6d7b9b388d4b8b996751c2912a8c26800860ced83e62a8"
+  },
+  {
+    "path": "models/training/metrics.csv",
+    "bytes": 19407,
+    "sha256": "478d9c19458ebfeacb5634ef6fb637e95b21cc395ce61f3ac7774b4001c4cd9f"
+  },
+  {
+    "path": "models/training/roadscan_training_identity.json",
+    "bytes": 956,
+    "sha256": "79aab262a05c8b5f2b913d7014deba26203f0e784cfe94bee0fa74d4e973c08a"
+  },
+  {
+    "path": "models/training/training_config.json",
+    "bytes": 4062,
+    "sha256": "2c3e38eacac4a434e50799dc8b4d8fd776c9ba4a3efb67c8cc92e5c0c17c549d"
+  },
+  {
+    "path": "notebooks/reference_templates/01_Preprocessing.ipynb",
+    "bytes": 1945,
+    "sha256": "8dabf2f6a9e0a48324f4c78c885a54e2284d0039e138277bcaac5404d96e22e7"
+  },
+  {
+    "path": "notebooks/reference_templates/02_Classification.ipynb",
+    "bytes": 21358,
+    "sha256": "b796b80ea577dfc10097f315082bf6e3bfdc8b65145830ddce358a507b00b27a"
+  },
+  {
+    "path": "notebooks/reference_templates/03_Detection.ipynb",
+    "bytes": 1518,
+    "sha256": "9e8e137ac2cdfa3fdc4764c03d51c74f8103a09b481c728d807432714b446332"
+  },
+  {
+    "path": "notebooks/reference_templates/04_Priority.ipynb",
+    "bytes": 4146,
+    "sha256": "b1d9bf0835646033aec2891794269dd6e4f2560d04b40d88d67216ba33692508"
+  },
+  {
+    "path": "notebooks/reference_templates/05_Similarity.ipynb",
+    "bytes": 2057,
+    "sha256": "624911f8260180e1cdca3a393ebfcf9af55cec81da74fdd50d12c367f9332ebe"
+  },
+  {
+    "path": "notebooks/reference_templates/06_Application.ipynb",
+    "bytes": 1613,
+    "sha256": "a7502a366b6edf8ff0245a106c7e3a6388d6c75f1a27e8d538eeaff30386396e"
+  },
+  {
+    "path": "notebooks/07-Roadscan-AllExperiments.ipynb",
+    "bytes": 395174,
+    "sha256": "e18ffa813ee48de4175a7ebade6ada1c2c839ab61974094405901d79da6cd029"
+  },
+  {
+    "path": "notebooks/application/app.py",
+    "bytes": 11852,
+    "sha256": "5b6606063e40d4caa7309089406ecf917e4f0d5e2d0be79828cbd6db239ea643"
+  },
+  {
+    "path": "pyproject.toml",
+    "bytes": 289,
+    "sha256": "88dffd4f00a3b0759eaacb00f5278e1bfb6d06ad4b0833826a1e9a44fd5d2c8d"
+  },
+  {
+    "path": "docs/ORIGINAL_README.md",
+    "bytes": 908,
+    "sha256": "f77da0ebda5ef8cb0cb6e642aad0ff77c0cb5e14c07c3c3b568eb991b2c11a39"
+  },
+  {
+    "path": "requirements.txt",
+    "bytes": 308,
+    "sha256": "118248ed3956c579b18151bf3eb122957291f5f016b71b1d37f6ef431721b07d"
+  },
+  {
+    "path": "results/data_summary.csv",
+    "bytes": 87,
+    "sha256": "45ee2fc8ab2b86302ec9f89f43ee4409cc00a724b00480d69af9873adc954b7f"
+  },
+  {
+    "path": "results/detection_metrics.csv",
+    "bytes": 240,
+    "sha256": "25995dd6f5c5812ff9478e261466db3bc8ae524d31debdb17be0eb6431ea756b"
+  },
+  {
+    "path": "results/figures/detection_example_01.png",
+    "bytes": 574164,
+    "sha256": "ce89fe12abfb29ca2fb4f37a7eab9c5ea798f45eaa32ff0d453c4c000caed379"
+  },
+  {
+    "path": "results/figures/detection_example_02.png",
+    "bytes": 682230,
+    "sha256": "a0f472f30f966d3ab7bcefc400ccfeb54cbc03e34bc63fe79a2a7e66860ca751"
+  },
+  {
+    "path": "results/figures/detection_example_03.png",
+    "bytes": 693226,
+    "sha256": "d3be640e6bf6610c117c0abfd55e5f8c76631ec2660b819ad74a8b6d9ef1f863"
+  },
+  {
+    "path": "results/figures/detection_example_04.png",
+    "bytes": 754185,
+    "sha256": "8f07ec3f1ab5cc50b3533af44e6960bfb891f12efd4096997956645defe49cb6"
+  },
+  {
+    "path": "results/figures/detection_example_05.png",
+    "bytes": 376872,
+    "sha256": "d47912b115d22b1ad4ed40d3490b0b146f91eaeb7d1824a766937b01cabd6153"
+  },
+  {
+    "path": "results/figures/detection_example_06.png",
+    "bytes": 334861,
+    "sha256": "cfdfec4523c17b503979c610351b21a4f9694f63823359b82a5580c7b39ff1f2"
+  },
+  {
+    "path": "results/figures/detection_example_07.png",
+    "bytes": 428060,
+    "sha256": "3b15e763e835430203348c2fc4520807efd95eb79e64c4512e045f2685a8852c"
+  },
+  {
+    "path": "results/figures/detection_example_08.png",
+    "bytes": 420704,
+    "sha256": "a0423be6f021de96f9ff389fb3a46fa3dbe5da9da4c1a162bdc53a247e2a0bfe"
+  },
+  {
+    "path": "results/figures/detection_results_01.png",
+    "bytes": 15653,
+    "sha256": "665eb029f5ce5085208a191d694dc32ac7abbb244f9061386e159c392d4ac9e6"
+  },
+  {
+    "path": "results/figures/priority_01.png",
+    "bytes": 18855,
+    "sha256": "e2c3cb703594f05456cf2c92917f73b1bdcef394afd29b8923e386850780aeb0"
+  },
+  {
+    "path": "results/figures/priority_02.png",
+    "bytes": 356033,
+    "sha256": "8579aebedf558052e9eb5926bccf608b59b460bcdbed7857bac0a42efcd77b1b"
+  },
+  {
+    "path": "results/figures/priority_03.png",
+    "bytes": 331698,
+    "sha256": "1aedaa92e2f077813b06bd798bb9ec54e9d46382573bfef103e0cad8cc39611b"
+  },
+  {
+    "path": "results/figures/priority_04.png",
+    "bytes": 308103,
+    "sha256": "5dc8b3cdbe6a8e32a7d9718a14a55eb7570c8da89d877513d7b0cb949d852a58"
+  },
+  {
+    "path": "results/figures/priority_05.png",
+    "bytes": 326177,
+    "sha256": "a5d76bc0b1e77167d5ad9af33f31596422efd5d34aeaa224be6eae27a5e83878"
+  },
+  {
+    "path": "results/figures/priority_06.png",
+    "bytes": 409792,
+    "sha256": "4e09a6a9954b17c37e5dabc97e00f8a43698153f5bc44d42ffc0e0ed72c9ea61"
+  },
+  {
+    "path": "results/figures/priority_07.png",
+    "bytes": 463421,
+    "sha256": "0eb7304be14ee8c41d8412a652746e93c76f95372cd1c796571e154d955984fc"
+  },
+  {
+    "path": "results/figures/priority_08.png",
+    "bytes": 264691,
+    "sha256": "8684a114383993476bcd4ad6e82aa2d165e3e501a38bb435c2b87bb46a148b08"
+  },
+  {
+    "path": "results/figures/priority_09.png",
+    "bytes": 406725,
+    "sha256": "4e7e156643520a0fe50fbe5d373a065e2d2f5a1b2d43c871c92d89d918b18765"
+  },
+  {
+    "path": "results/model_card.json",
+    "bytes": 1910,
+    "sha256": "61159cfca73a6aeca7939b5be56ab6d0f8190b5018fe7b8bd25e346187213ca7"
+  },
+  {
+    "path": "results/priority_band_distribution.csv",
+    "bytes": 76,
+    "sha256": "08063db0a725413d55f158841fec9be556ef041091c594b04e8944d1a17a462b"
+  },
+  {
+    "path": "results/priority_sensitivity.csv",
+    "bytes": 129,
+    "sha256": "718ae8ca6bd3939e81ea331a7576568025fb12ec4f4c77401daafab020c1bb07"
+  },
+  {
+    "path": "results/priority_summary.csv",
+    "bytes": 211,
+    "sha256": "dc1b0c354a925eebfb7ede8651682b4f9c059c14333218cbb4146dbbd24e96ab"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/data_protocol.json",
+    "bytes": 2666,
+    "sha256": "09605f7c4a229d04a1d292625adaffd3a1a6e5b2ca6aaa6267d13a6dc2a68b2f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/environment.json",
+    "bytes": 196,
+    "sha256": "f27e687557b02a1af87dab45658dd9ff757cddafd19d7c7ebd6fd20f7363974d"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/excluded.csv",
+    "bytes": 13,
+    "sha256": "ac42e13dbb67ed51cf15b6661538fd5bda24e391ebb435771fb1040700a6f71b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/near_duplicate_pairs.csv",
+    "bytes": 7625,
+    "sha256": "cafe7d4175769bb5531144a3a7a257dfb6be0c801b0cbe257e9bcd7304e55680"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/cpu_latency.json",
+    "bytes": 344,
+    "sha256": "51021998f2f049d4f28e85292c58648e780f6154bb2f66404101702eab0cefbc"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/cpu_latency_samples.csv",
+    "bytes": 3154,
+    "sha256": "1ce7440e9a94e3fb276ab638a6855f59168de7882a157819fa0e3d49408c338c"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/detection_metrics.csv",
+    "bytes": 668,
+    "sha256": "ba885bcaa5a45d5bc7318c5221de6161f6cdb1681f663b5206260e9eb9bd1939"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/frozen_selection.json",
+    "bytes": 344,
+    "sha256": "3a988758a060430de62291cd23bc14d3a350d7ae93dacc7d07a47964126a2e2c"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_confusion.csv",
+    "bytes": 126,
+    "sha256": "9d5288833d4a7d47fe6037ca761e2463b4e54f03cb2b6ea5b0a22c40fada18ca"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_confusion.png",
+    "bytes": 54256,
+    "sha256": "f2fdd553a63f19c25e5432b2225a445d3fb802fda97dd017837f4341e56a0b67"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_example_1.jpg",
+    "bytes": 47071,
+    "sha256": "1ca283cdd432fb4ac2ab68141d8c82f994e33a8dd7e309d99df38b37d17e0a2a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_example_2.jpg",
+    "bytes": 45861,
+    "sha256": "fb67ce4748765e3b5023c7e75e02d80ede967d0632d3217007804f791baa1056"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_example_3.jpg",
+    "bytes": 45313,
+    "sha256": "2b90ac78946dcc983f3102b4c442a2c325f72006b159478c853caf9183d71add"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_example_4.jpg",
+    "bytes": 40426,
+    "sha256": "016578fb06b3eccbea472b898ae0b42d3d43a03730505feb50c3ec70aada5cf5"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_example_5.jpg",
+    "bytes": 44065,
+    "sha256": "8c083b64c28fa9ae0f9dc1f929b3c8c589c6ffed5184b89e0d031953adf34e68"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_example_6.jpg",
+    "bytes": 47819,
+    "sha256": "a4dee2aabe099db460d381d5b6ed6920040e27afac65c7ff099f4efd9b33ed2e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/held_country_test_per_class.csv",
+    "bytes": 548,
+    "sha256": "41ff462497f9adf106b034febd7c2d4a47c2b719d2277be24c841febc62918d9"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/metrics.csv",
+    "bytes": 20266,
+    "sha256": "10c4490e9b026ad48b71c553d51cf4d850f70133fe10a080645fb6123479d6a9"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/run_identity.json",
+    "bytes": 545,
+    "sha256": "adf11e4b0b53bbb94324b8af45dd62d2fefd7eff5e3089292e0c455e7ef3d735"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_confusion.csv",
+    "bytes": 112,
+    "sha256": "c2c47fb4fd3c51068e4c1997e4fe74a525b6b3cc9fc38385452f9d4d71b46589"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_confusion.png",
+    "bytes": 44014,
+    "sha256": "8947e509b2ee906f8851be5917d80bd137d4e6fbdd4d482c978c47fcbac2f54c"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_example_1.jpg",
+    "bytes": 63261,
+    "sha256": "7ec8cbb9b946109ed60f284a04c37d5a6d49f1eb2b69450c3bd84c2ac1ff6bee"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_example_2.jpg",
+    "bytes": 42931,
+    "sha256": "e0ea339776557a02e4dacb3f72628d8066cf3a2067252b174ce35d4285f119c7"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_example_3.jpg",
+    "bytes": 41127,
+    "sha256": "da1f1037a4ca951edf564f96f1a022d0b5009c11073acccb5932bbb2704b7be2"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_example_4.jpg",
+    "bytes": 45977,
+    "sha256": "e2eb177f948ee9ed754525d61ba87080d0e222c1e69fbdbbfddb7247d9830349"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_example_5.jpg",
+    "bytes": 68603,
+    "sha256": "db3a5d0430e3bc6d11024f6e9004e758bd02f453a25a0905f414042731af4310"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_example_6.jpg",
+    "bytes": 56968,
+    "sha256": "a289c4aeff681ee7e5ac2c891576648a6b2c1e84c26597d72c70e1cc81fc300a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/saudi_test_per_class.csv",
+    "bytes": 549,
+    "sha256": "5ebf0fa46eae244864918e31c68014206eb7fa57e1cbdc0d4752fda0d642d14d"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_confusion.csv",
+    "bytes": 126,
+    "sha256": "52bc72ca0634e331c6c6435f6c6a4cabf20a9537692e7fe68990c7c6be81333a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_confusion.png",
+    "bytes": 48240,
+    "sha256": "acbff5997c0bcc57ccacbfd2c74deef9cadf89948c63cbe86ef6bcefd1c6c400"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_example_1.jpg",
+    "bytes": 107397,
+    "sha256": "a34c3834d75b6b23e32949babe588b8d609b7c3ef4d19c1dc85373920fe01f02"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_example_2.jpg",
+    "bytes": 104629,
+    "sha256": "8695bc203b97c004a5b6e36a9f8b68a1b608cd6632c49cade0efb63516aa10d7"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_example_3.jpg",
+    "bytes": 93329,
+    "sha256": "2fe8afc81cabcc465c8ff4e163d99dc849add80d57025f93042c6827a558756b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_example_4.jpg",
+    "bytes": 94157,
+    "sha256": "c32edf9aab351aae33f75e50a36ad78b0f201d30dcf6d93ab24a3280092a5496"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_example_5.jpg",
+    "bytes": 37396,
+    "sha256": "6c921912546b63f01359b6d7a081da45a4e2738edafd9628898afc9d6ead1042"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_example_6.jpg",
+    "bytes": 64706,
+    "sha256": "1cd368bd664f982222e209ef45cde95812fb061f0395f6228cc7e7214c3d4652"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/test_per_class.csv",
+    "bytes": 578,
+    "sha256": "accd2a7dac36b82ebc3212a58cb1c385de9c78af7ce66f797ff5fe3e2f41b521"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/training_complete.json",
+    "bytes": 311,
+    "sha256": "dac4a465db2af9ca406d612225feb7225d4bb7d8c29cedd3340c8c357c93525b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/training_config.json",
+    "bytes": 4362,
+    "sha256": "075427b0e12c5ca2ce65f84b63e4bf3a62e9d9ce6f7428b8a4caa0a11f7d6108"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_confusion.csv",
+    "bytes": 125,
+    "sha256": "1d90d2230850f936a0bf026ac8c69876d4238df7e534a08a227f5baf48c23451"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_confusion.png",
+    "bytes": 46504,
+    "sha256": "ec770cd34f5b810d3119c7aa89f46d0e7f3a68277c91dca7b0988b18de5cc1e3"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_example_1.jpg",
+    "bytes": 129876,
+    "sha256": "716b4250ce3a502cc3716beb34b2773f54dd9f0563470cc458ae371ce1fe15a7"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_example_2.jpg",
+    "bytes": 34488,
+    "sha256": "d26ef09637507fcfd8263342c4e54a44236307897ba15cc18d1261ff99ca95be"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_example_3.jpg",
+    "bytes": 109976,
+    "sha256": "c87de6bba5f420ea0a841928f4eba6b77587fd92810842efa6ef62d0dded2534"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_example_4.jpg",
+    "bytes": 105078,
+    "sha256": "abb183c949c3dbfa81c512c35f4b325dd18c938583fd57109f67007a37558aad"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_example_5.jpg",
+    "bytes": 33525,
+    "sha256": "7c9aec42f26e3e619a37b0b5ce5bb22afb924a1e713c8d1f4f30a250c7a7d1d6"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_example_6.jpg",
+    "bytes": 78359,
+    "sha256": "ebe73b74f115e917b66f9558cc9d34771345b2c357fd137ed7b07894bffe2e5a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/val_per_class.csv",
+    "bytes": 577,
+    "sha256": "695260419e5417eeaaa28dee5b0a38ee8e953b38127ce7497dfbe092ef4d989f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/validation_F1_vs_confidence.csv",
+    "bytes": 8567,
+    "sha256": "e10dfcbfde52edb75259f4a96458adddc8318fde2c1a3cde5ca5a0591cb21bc1"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_flip/validation_F1_vs_confidence.png",
+    "bytes": 85998,
+    "sha256": "8eaf6cc19c77ffa9913cf496755ab009ab710eaa7789cc37f4c0801814f24a6a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/cpu_latency.json",
+    "bytes": 345,
+    "sha256": "5065682f0243f0f15d65f5a7d0d8a8fe009526e6076e10defb5fc8a136bedf2a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/cpu_latency_samples.csv",
+    "bytes": 3148,
+    "sha256": "9e5cf1cf7dc4515ff67b86111bca874329a5d0ce7b228c5cfab452ea3df899c6"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/detection_metrics.csv",
+    "bytes": 675,
+    "sha256": "941c9e41321ff7e9f78c74f48aa3fe6ae31faf4555d56c935f5d44d9bf847b46"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/frozen_selection.json",
+    "bytes": 344,
+    "sha256": "faea2e2889402d85621489c801454f1c846bb1dafc6a024c588412b8c9af5bed"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_confusion.csv",
+    "bytes": 125,
+    "sha256": "1100233d785b207140ee73dee29af2ad257bdae9ebadf618b2127d6c2d54e77f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_confusion.png",
+    "bytes": 53667,
+    "sha256": "620f1fcac024d68a732cb18f4be6826b5d80446077bc1ac02eb56465b65fea0d"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_example_1.jpg",
+    "bytes": 46532,
+    "sha256": "55dded5636317063d22cd06fe9610642fadc66078a96db3ffddab508a38776f9"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_example_2.jpg",
+    "bytes": 46166,
+    "sha256": "6d445433fbe8ca1e3a3ade2ca753e822c6e6ed603ca68b0f049b670ffa251b12"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_example_3.jpg",
+    "bytes": 45117,
+    "sha256": "864b363b922ea266522077b51f84f0c4ad0d3643887f1aba07cdfd3d83f61983"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_example_4.jpg",
+    "bytes": 40404,
+    "sha256": "d8e63bf7e1f63dfc07cbf426bf3236bc72dde76d567b6bae7ad4a57ab6db8e54"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_example_5.jpg",
+    "bytes": 44097,
+    "sha256": "6edff6a7fe1fe0a80b5ba3687307abebb756cbb27cf2469c750b3da751d63004"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_example_6.jpg",
+    "bytes": 48374,
+    "sha256": "845fb28e07fcb70498d6544cd8991521d4a59b7014bd8faa8da2411b9d4c5406"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/held_country_test_per_class.csv",
+    "bytes": 597,
+    "sha256": "19d356b09b86ab93d1ef42d4f424f5e6dc7c15eade5cead59c881b547f36829d"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/metrics.csv",
+    "bytes": 20291,
+    "sha256": "5edc60729f64a875702183814f23f4d41a855e58b460d19a5e9e8274b9f7a0e0"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/run_identity.json",
+    "bytes": 546,
+    "sha256": "330cbf9131bcd2d81e82b63cfaf368cb7771b4cd6c72cf55c7d023bb04e7021a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_confusion.csv",
+    "bytes": 113,
+    "sha256": "f09575c4b244b4f1da1dfa8bbcc998208feefaddcf70a25191d4a96de7e8c7cb"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_confusion.png",
+    "bytes": 43422,
+    "sha256": "adf21f5a1e59e79471abc1e6fdec6f4ac54451f39bcec9b6e71332f0e5ec6e68"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_example_1.jpg",
+    "bytes": 62541,
+    "sha256": "8841aa3c6523838bbd86bffe7ecc7d1d28171dbe556bb871e2f35c28cb557819"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_example_2.jpg",
+    "bytes": 42848,
+    "sha256": "e4ad4eb933e90cb54a5ba5782d014456072e93afb06b2d83289b46eb95734159"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_example_3.jpg",
+    "bytes": 40935,
+    "sha256": "573fdbe04ca44c7b1b941e26de550ec4c50038643056b98cff6b4f9b08c53ade"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_example_4.jpg",
+    "bytes": 45982,
+    "sha256": "dbc7f5af14ae6c3987f6754555e633ecec234fe4c2d2748818277a2642412632"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_example_5.jpg",
+    "bytes": 68412,
+    "sha256": "e68ef10f051b50fda4067d01ba0cbcbbd5e331b8da488cef36777d40d9fcf95a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_example_6.jpg",
+    "bytes": 57014,
+    "sha256": "33e26957048602c27e3bdc0cc242c13d98e03e474da1b499a8526176f821f03e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/saudi_test_per_class.csv",
+    "bytes": 536,
+    "sha256": "c56083b01c44555cb9ded2c36b24e87d3dc9972e88793649b30e14578ef4504f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_confusion.csv",
+    "bytes": 126,
+    "sha256": "83d2f382c3f741821b34aeb0ddda5ffff0632276ccd170158de5a1c943c82a82"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_confusion.png",
+    "bytes": 45170,
+    "sha256": "d9c48d7a9cec0bb798d52551c1d7810b89d5619cbba7ca7f900af2bd65db13a0"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_example_1.jpg",
+    "bytes": 108865,
+    "sha256": "74df726cf4d7fff69f0282ee2c0f673a212bafc7b18e0d19d0329401693d5403"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_example_2.jpg",
+    "bytes": 103751,
+    "sha256": "14dab72dea2496d1c8a39a63756dcfb2f8061eb9aab58071cacedda679c5f140"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_example_3.jpg",
+    "bytes": 93829,
+    "sha256": "8b69d6f97742fce8c2793c17b727b6db0fba14ebaebcfbeb2d7fa95616995e68"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_example_4.jpg",
+    "bytes": 93662,
+    "sha256": "8899be74e47f91032d03584bc54f08067f2f6deaf52e64b5a187a4c093127fd5"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_example_5.jpg",
+    "bytes": 38151,
+    "sha256": "796ed2a074fc7ba69ecd0f50b23f209f20113f2d639a750079e481faa768f20e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_example_6.jpg",
+    "bytes": 64332,
+    "sha256": "e520b2dcd7604719c56ed1dc8e37588b3c3025248610173cf4321798b45fc482"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/test_per_class.csv",
+    "bytes": 577,
+    "sha256": "47c44d6ccbb4e2ffdb4c931283fe6fd36acce86a8e6c536a1d346e02de3f58ca"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/training_complete.json",
+    "bytes": 312,
+    "sha256": "d360cada3415d48a96de48387723c06ca57deda02625823e1073d6d88d1c4884"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/training_config.json",
+    "bytes": 4361,
+    "sha256": "ab2abeabbcd2ce0d2492fdeb4adabcd93d5bbc5663c0ab6b402b684060a9fa45"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_confusion.csv",
+    "bytes": 125,
+    "sha256": "c7f2045b780ab7879bd357c9b91e5573a173eef8f62977b75b3d1c194c68b501"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_confusion.png",
+    "bytes": 48172,
+    "sha256": "248edeae10de71343514285866f1eceba77b8ab92494c10ad7eef1922b70092e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_example_1.jpg",
+    "bytes": 129390,
+    "sha256": "3de94f543f737186ce57e66c0c0aa7ecd2e62f7b9eca725fa5967f84d4003f6e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_example_2.jpg",
+    "bytes": 34521,
+    "sha256": "1e50d78cf43301c496a6587b7340a3c22729adc8a03fdbe59835db4f2eb2f79f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_example_3.jpg",
+    "bytes": 109539,
+    "sha256": "90202cd0e9979147267c4bf73c53dbc73ae5296048cf5fa2aaaae433971104b7"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_example_4.jpg",
+    "bytes": 105003,
+    "sha256": "9ed952c40c34c3394b990beb99472845315729da17e4079ff98d15517d1efa40"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_example_5.jpg",
+    "bytes": 32838,
+    "sha256": "aa207f4570ab63f11d791c05a6d67e9319e9f06b564555306870b495ea8403e2"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_example_6.jpg",
+    "bytes": 77564,
+    "sha256": "2e22c9d6dcccac3a983b9ea2bfc397bbd37cef9bb7501a908a1205f7c7168859"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/val_per_class.csv",
+    "bytes": 579,
+    "sha256": "b80b977eae939eb2670b65893910de667239427945a637dc5c6478b4f2aab72f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/validation_F1_vs_confidence.csv",
+    "bytes": 8618,
+    "sha256": "0df4c28cba1d83cde04e5d0aadfad5aa09bad29d54f9e09cd83cbf5d6331739c"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/validation_F1_vs_confidence.png",
+    "bytes": 85547,
+    "sha256": "cb4b196d139734b2a8cfef44a290e1c92ddb318c7faefce5660e586303edb7f8"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/cpu_latency.json",
+    "bytes": 344,
+    "sha256": "7af0efd5a8213fd49fe655bdff720c45eb4b2822dc372cc94af94c42ed082c0e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/cpu_latency_samples.csv",
+    "bytes": 3132,
+    "sha256": "9a72b32ddec8467326f06749077376dcdc5539c6ac9b8f0a222e6b01095907b3"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/detection_metrics.csv",
+    "bytes": 669,
+    "sha256": "03fc9e33c16b11bc44c18ae5fa35ac6f25bca853abf14538dbbb60565c0e75d7"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/frozen_selection.json",
+    "bytes": 343,
+    "sha256": "f3793549ea1d1738e9183dbd9110654a52f2e7d3df2fe6594854c0bcb60d7023"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_confusion.csv",
+    "bytes": 127,
+    "sha256": "7e9bd702070bdf19896e8b24301660f2166f78dca4593a4071860f9b4288dccd"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_confusion.png",
+    "bytes": 55239,
+    "sha256": "7bd9103163406079560e5a5657d313f8b62c9b5595b5698225ce387642c16111"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_example_1.jpg",
+    "bytes": 46532,
+    "sha256": "55dded5636317063d22cd06fe9610642fadc66078a96db3ffddab508a38776f9"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_example_2.jpg",
+    "bytes": 46138,
+    "sha256": "d4837ff2e1af873a071762066b6d511e025f4ee6b3a7c104dff1ca4840228e4b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_example_3.jpg",
+    "bytes": 45241,
+    "sha256": "082d217cdfd9cd79fd4a98e6aaf962f8e489b6fafde07e96340e867edb8cfc00"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_example_4.jpg",
+    "bytes": 41419,
+    "sha256": "267c4fb9a60142f3f73ca3e78110523001a336a9026da06d845d54916104209b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_example_5.jpg",
+    "bytes": 44130,
+    "sha256": "951dd25c633677476913fc3fbfaa34bc110c7e6c287cddb0a0006ca417964d8b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_example_6.jpg",
+    "bytes": 47819,
+    "sha256": "a4dee2aabe099db460d381d5b6ed6920040e27afac65c7ff099f4efd9b33ed2e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/held_country_test_per_class.csv",
+    "bytes": 596,
+    "sha256": "380c742f71ca3bb64e9c7b0d16cc6fc3238f8b37734d76922825149e1f936c78"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/metrics.csv",
+    "bytes": 20286,
+    "sha256": "421e7a6cf5a152f7387b71c38a9a99910846b2bf640b430f13f41de534a54a95"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/run_identity.json",
+    "bytes": 546,
+    "sha256": "96df8764860c23d49420555cee089171f7e729f81f5ab2834a87e127e9ae19bf"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_confusion.csv",
+    "bytes": 111,
+    "sha256": "cebb077b7f83e96b1d4a9d5d7f7cf64cca7f6771fbeea0b105d51678a7c6c021"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_confusion.png",
+    "bytes": 43472,
+    "sha256": "64268380f56a3761e469ca19af178d23e86abaa8e06ef778582fb9b3039edd0e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_example_1.jpg",
+    "bytes": 62785,
+    "sha256": "7da40cc74ce683da734bf2abc9ab041c057c4d0cc432f8a1505922bbffd78e79"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_example_2.jpg",
+    "bytes": 42910,
+    "sha256": "f2389c5c07cc6551fa119e4da9719d1beae39247dce999b4fdefa75922aeafa8"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_example_3.jpg",
+    "bytes": 41133,
+    "sha256": "d349b11387d5483095329a31814227f817370bb15d88e0d20e4f2f0ae8f56458"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_example_4.jpg",
+    "bytes": 46206,
+    "sha256": "437b52bf384d1d3ad57fdcb8f01de28c8e7909b020068e8b2952dd8a1970ab0a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_example_5.jpg",
+    "bytes": 68813,
+    "sha256": "87285e090ec75fbc61c870c6410336e1d7e5c3c443e6ceeb3837567862377728"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_example_6.jpg",
+    "bytes": 57078,
+    "sha256": "68d3337797d517408c9ae52ebb28e45bccd0be10299f954d2f714911e2b02cb3"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/saudi_test_per_class.csv",
+    "bytes": 534,
+    "sha256": "61d546c53ce9338ce576824c2783c374233852877ce77297dcfeb4136aa0b61f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_confusion.csv",
+    "bytes": 127,
+    "sha256": "b6b81890d8c824c04099e7c889da7eea424bb9592252f5dfe2056dc3c6b51bb2"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_confusion.png",
+    "bytes": 48755,
+    "sha256": "ed8d82b0d2eef2432cf9880a0b21ba2613f267451893acb5653d51da1a60497f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_example_1.jpg",
+    "bytes": 107630,
+    "sha256": "e389fa69b13da1e311d40507537cb0435172db7ed20e3bc26f859f450acfe6ea"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_example_2.jpg",
+    "bytes": 104486,
+    "sha256": "ddd166be1992be788ed2572d54608aca4038099407f840ee113fbd5244e2e16c"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_example_3.jpg",
+    "bytes": 94472,
+    "sha256": "c8fe3bec015f8b228d5c6a69381b7dab41ccfe414ea1c3afe70255398850f017"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_example_4.jpg",
+    "bytes": 94072,
+    "sha256": "1585729203d3b6943992efe467fd869cfcf444816868f35434d4633ae26fc740"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_example_5.jpg",
+    "bytes": 38193,
+    "sha256": "00b1a7b013d8e00539872b7b5fecfe645581d866faecd9914c07d98a8858597b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_example_6.jpg",
+    "bytes": 64332,
+    "sha256": "e520b2dcd7604719c56ed1dc8e37588b3c3025248610173cf4321798b45fc482"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/test_per_class.csv",
+    "bytes": 573,
+    "sha256": "3be4749ed8a4cf423e1757c17a0e67fad803d50a80530528b5d8b03ab37529b1"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/training_complete.json",
+    "bytes": 312,
+    "sha256": "e44000719d770c1f5fb46b6ff733672185b563304ee3f9e2b852d47d1c07a23f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/training_config.json",
+    "bytes": 4361,
+    "sha256": "52c03aae25733aae9b1bae121228bb69c5529b57fa1443971f1bf9d8a72e6f64"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_confusion.csv",
+    "bytes": 124,
+    "sha256": "c43a866b7816c59264914f877a7e6a60c696f1af2292b1850c0219da7193380b"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_confusion.png",
+    "bytes": 47380,
+    "sha256": "e146702205665b7074b351a2de32e1f2f76f3d74840bd64d39609c7a6aa1ffb5"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_example_1.jpg",
+    "bytes": 129041,
+    "sha256": "355de1595333ca5ee77ef8f9a76b410076c094e0ad684981eef27dee33f80193"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_example_2.jpg",
+    "bytes": 34138,
+    "sha256": "04f0d4251bc5ecce76879106a0e93f55e4dc80b8aa3de889f35e8e8fc180e8ab"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_example_3.jpg",
+    "bytes": 109589,
+    "sha256": "d2b3f5830806b9f03f84a314b56c9390b050218b12edfe34d9e92353ea2a5959"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_example_4.jpg",
+    "bytes": 104892,
+    "sha256": "95b07bd7ad55f8672d7c0ded2b3e40e245b824a8c80202ea0fda58f47666a91e"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_example_5.jpg",
+    "bytes": 33086,
+    "sha256": "ecb6a8948f69e35988d6d8ebe8dc9b0b50d6fa0284154311e23f925d6a32adfd"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_example_6.jpg",
+    "bytes": 78703,
+    "sha256": "265de06c45ab4b949dee0515774f16904ae60ce78361eb72d59db70e9da7e36a"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/val_per_class.csv",
+    "bytes": 562,
+    "sha256": "f0e9b16a0e7d222487f4033fc42c178007b247c8c554372267a6a15cf6f3c354"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/validation_F1_vs_confidence.csv",
+    "bytes": 8557,
+    "sha256": "3c2d3741bf1d948ddbaf3275a38319e88d68b7a21d0c7f4997a96249b53a7506"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_640_noaug/validation_F1_vs_confidence.png",
+    "bytes": 83291,
+    "sha256": "8946dc8c507f4f714a8c03d78b7ca174016366ffe0027513640053209458a2df"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/split_manifest.csv",
+    "bytes": 2075138,
+    "sha256": "f25f4f34860a8cb701cb4b4414ffa635cc5384bbd32f893f3d663ce2295dc78f"
+  },
+  {
+    "path": "results/RoadScan_20Epoch_Experiments/India_6f44f8600748/split_summary.csv",
+    "bytes": 267,
+    "sha256": "a4d333a982417d1b3085ca1e571af9285d18c6a4cd6c069a8e4a56be822f1f74"
+  },
+  {
+    "path": "results/validation_metrics.csv",
+    "bytes": 109,
+    "sha256": "a4f41934b26897a25d6b2ab1a925dca6093bf263194e53e0605ef00d526a6c96"
+  },
+  {
+    "path": "results/verification.json",
+    "bytes": 501,
+    "sha256": "f9fbe59611aef43027eb9415fba0087c8d183522093c35503d3ae3559b5c06a9"
+  },
+  {
+    "path": "results/yolo_model_search.csv",
+    "bytes": 541,
+    "sha256": "bcc8cf5d5a71afe4f2033c1b71173be609c3a4822cd3fdbe6ae50ecffbb6bf5f"
+  },
+  {
+    "path": "src/roadscan/__init__.py",
+    "bytes": 66,
+    "sha256": "c7ecf5c0cd7f8e9553cd078901c0348365dd37c06371e4e093c1b4540c203926"
+  },
+  {
+    "path": "src/roadscan/api.py",
+    "bytes": 2286,
+    "sha256": "b47b2d5624576fb607de6b48c33ac29da02de32fc3c465fdf1433cf5ae690dc2"
+  },
+  {
+    "path": "src/roadscan/duplicate_evaluation.py",
+    "bytes": 9376,
+    "sha256": "fc39a20cda57d6b2ba592c9352ab0b790d9e2c5578243d41ac08ef99760a14b5"
+  },
+  {
+    "path": "src/roadscan/evaluation.py",
+    "bytes": 7966,
+    "sha256": "68a8d60d9b12efa05222bf96f46475d15c254f16e86d179cc0f058072f7a4af8"
+  },
+  {
+    "path": "src/roadscan/predict.py",
+    "bytes": 3151,
+    "sha256": "6139dd79c2fbd6eaf52a689e7df4abf4f8494ed25025d67e19cd83bd93a0917d"
+  },
+  {
+    "path": "src/roadscan/preprocessing.py",
+    "bytes": 9966,
+    "sha256": "b6bd0f000ecff0a75db0466843d842724beecd82df920667390ac61a102261f4"
+  },
+  {
+    "path": "src/roadscan/priority.py",
+    "bytes": 3600,
+    "sha256": "b96bc4c6526e3e9fead23a83bd7292b3b878a1fd712374d10208a8583ed22770"
+  },
+  {
+    "path": "src/roadscan/service.py",
+    "bytes": 20713,
+    "sha256": "6efa111abdba8f3f679eccd20168247fbeb86ba873c6243b03a9afb98e220490"
+  },
+  {
+    "path": "src/roadscan/settings.py",
+    "bytes": 775,
+    "sha256": "e57ab5144037278f0af3e96662605b3d77033c1a571012d51648f8f16f8fb41d"
+  },
+  {
+    "path": "tests/test_service.py",
+    "bytes": 7807,
+    "sha256": "9b48cc1e2ef6eca48a988869708a67c3c08cc3fd3333aed2d4c78e0920284d00"
+  },
+  {
+    "path": "THIRD_PARTY_CREDITS.md",
+    "bytes": 501,
+    "sha256": "948cb6ab96ccc3d8be6b967212f75f45f003fd0866c561dfae83b097818814bc"
+  },
+  {
+    "path": "data/metadata/dataset_version.json",
+    "bytes": 2044,
+    "sha256": "00f4edb38a11a71658f37417943df92282d76c59c5a129d66ac95e2c88b21c2b"
+  },
+  {
+    "path": "data/metadata/manifest.jsonl",
+    "bytes": 4325741,
+    "sha256": "a3bee83e96400da2426e4fd9c7fa7e4730801e074424a2838a416f75b7b658d8"
+  },
+  {
+    "path": "data/metadata/integrity_sha256.json",
+    "bytes": 1861196,
+    "sha256": "50bb4e0942468d5b245bb6f3ced0a8bae21d79d5f9d325155617ddbef389b19c"
+  },
+  {
+    "path": "data/metadata/DATA_CARD.md",
+    "bytes": 865,
+    "sha256": "2a50a03329b38aff6d330851f84f8297c83c6028e3d6def101ff2a7f0dff8fe1"
+  },
+  {
+    "path": "data/metadata/data.yaml",
+    "bytes": 149,
+    "sha256": "614496985a09e2aa9055af2cbe3decdd233e6318ba33c670818a8db389fafffe"
+  },
+  {
+    "path": "data/metadata/saudi.yaml",
+    "bytes": 155,
+    "sha256": "2b04f880b8781aeda04e7e8aacb903329b1d08c3cd1e1d940c418b567b188e0c"
+  },
+  {
+    "path": "notebooks/previous_models/01_YOLO_Version_Search/RoadScan_YOLO_VersionCompare (3).ipynb",
+    "bytes": 6292319,
+    "sha256": "49792bec7a867c3575f40a3fc4fc0de20e2004fe7b3ae331cb03f190c9eb5d08"
+  },
+  {
+    "path": "notebooks/previous_models/02_YOLO26n_FineTuning/RoadScan_YOLO26n_FineTuning (1) (1).ipynb",
+    "bytes": 171293,
+    "sha256": "d9c5720e2a756a178a6b92adbfef12e49362b4f92a92484f35b5c05d20701e4e"
+  },
+  {
+    "path": "notebooks/previous_models/03_SAHI/RoadScan_YOLO26n_SAHI_Results.ipynb",
+    "bytes": 3384992,
+    "sha256": "2eb35566fde77f920a08c39d27aa6939f29678db36a0cfc35e91944b2c3de2bd"
+  },
+  {
+    "path": "notebooks/previous_models/04_Latest_YOLO_Benchmark/yolo-comparison (1).ipynb",
+    "bytes": 926069,
+    "sha256": "33a577ea0abdc61d6b46785b38901266b33a5bcff9fdd0b6dc1b69d107fd840b"
+  },
+  {
+    "path": "notebooks/01_Preprocessing.ipynb",
+    "bytes": 3005040,
+    "sha256": "ea152f4b8581514b05a53c9c9e19daa8c348df2114ac3ab4164cb30f024911c3"
+  },
+  {
+    "path": "notebooks/ResNet18_baseline.ipynb",
+    "bytes": 52527,
+    "sha256": "7dfb7ef2a728dbb90b3d7c3b52d47b427ce4ecea4ca5184ec0d85a40530dfa20"
+  },
+  {
+    "path": "notebooks/notebook703c4b4ceb.ipynb",
+    "bytes": 73967,
+    "sha256": "01d7c401ede12ab22c361d2431e4c713d37c1a5dc754a5b1330ce8bc99665cff"
+  },
+  {
+    "path": "notebooks/01_RoadScan_HeldOutCountry_20Epochs_WithRun.ipynb",
+    "bytes": 164776,
+    "sha256": "c937156932d37db4fa34cab035ab13b7289a0702ff14ade48d3daf470fcfb275"
+  },
+  {
+    "path": "results/deployment_training_backup/rf_small_training/completed.json",
+    "bytes": 194,
+    "sha256": "d4d951eab23fdecd678118160787f99d461d7025870c8d5be2122baa5b800f52"
+  },
+  {
+    "path": "results/deployment_training_backup/rf_small_training/metrics.csv",
+    "bytes": 25942,
+    "sha256": "5c4817e647a1f4c69b17cc20f13c2f3464bbd35fcaaf1ed33558d373effdd310"
+  },
+  {
+    "path": "results/deployment_training_backup/rf_small_training/roadscan_training_identity.json",
+    "bytes": 928,
+    "sha256": "819fa4ccc7799d18fed2b77d89d8d3604b0e073902f64e7115a961b432e60ae5"
+  },
+  {
+    "path": "results/deployment_training_backup/rf_small_training/runtime_current.json",
+    "bytes": 83,
+    "sha256": "bafa26aef721324325ba4fcb398abe7ac51ab24386c8160e7a30688b7f161503"
+  },
+  {
+    "path": "results/deployment_training_backup/rf_small_training/training_config.json",
+    "bytes": 4439,
+    "sha256": "e78bac837afcf862d4a86690b13767c0d06407708cf8c5a79160290a4078ee34"
+  },
+  {
+    "path": "notebooks/reference_templates/01_Preprocessing_Workspace_Snapshot.ipynb",
+    "bytes": 8272,
+    "sha256": "d19fa30128a24b54a866c506d5863784386c56cf4b0a65261c6247748c8c0634"
+  },
+  {
+    "path": "notebooks/Preprocessing.ipynb",
+    "bytes": 12952,
+    "sha256": "d42a8a9046bd754b4d7d0b522f1db65ce449b0dc0cc6afd6fd22e0e6791e0782"
+  }
+]

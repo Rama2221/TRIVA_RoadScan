@@ -1,0 +1,20 @@
+{
+  "model": "RFDETRSmall",
+  "resolution": 640,
+  "epochs": 20,
+  "split_sha256": "6f44f8600748d90ceccd354c1ddcb8f4312a34d5af0b8fbac7b87aaafbbece95",
+  "seed": 42,
+  "batch_size": 4,
+  "grad_accum_steps": 4,
+  "lr": 0.0001,
+  "lr_encoder": 0.00015,
+  "use_ema": false,
+  "scale_jitter": false,
+  "flip": false,
+  "augmentation_backend": "torchvision",
+  "initialization": "official COCO-pretrained RF-DETR Small; no RoadScan weights",
+  "selection": "non-EMA final epoch 20",
+  "rfdetr": "1.11.2",
+  "torch": "2.11.0+cu128",
+  "num_workers": 0
+}

@@ -1,0 +1,28 @@
+{
+  "original_files_copied": 266,
+  "copy_time_sha256_all_matched": true,
+  "main_repository_original_file_verification": "224 preserved-file manifest entries; verification rerun after restoration",
+  "unit_tests": {
+    "passed": 10,
+    "total": 10,
+    "fixtures": "Original unit tests; synthetic fixtures only",
+    "environment": "Bundled Python plus pre-existing local QA dependencies; temporary directory set inside workspace",
+    "initial_environment_issues": "Sandbox temporary-directory permissions and missing sklearn were resolved using writable workspace temp and existing QA dependencies."
+  },
+  "added_python_scripts_syntax": "4 passed",
+  "literal_credential_scan_findings": [],
+  "token_signature_scan_findings": [],
+  "git_lfs_configured": true,
+  "full_app_or_training_rerun": false,
+  "runtime_limit": "ML runtime packages are not installed in this packaging Python; no new detector accuracy or full inference run is claimed.",
+  "report_or_slides_included": false,
+  "public_push_or_release_performed": false,
+  "dataset_integrity": {
+    "images": 8100,
+    "image_and_label_sha256_checks_passed": 16200,
+    "dataset_zip_metadata_matches": true,
+    "local_archive_copy_hash_matches": true
+  },
+  "original_files_copied_or_preserved": 276,
+  "notebook_reorganization": "Executed originals placed in notebook root. Short modular entry points retained under reference_templates. Existing workspace variation retained separately."
+}

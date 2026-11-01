@@ -1,0 +1,75 @@
+{
+  "app_schema_version": 1,
+  "class_names": [
+    "longitudinal_crack",
+    "transverse_crack",
+    "alligator_crack",
+    "pothole"
+  ],
+  "rf_resolution": 512,
+  "confidence_floor": 0.001,
+  "max_det": 300,
+  "thresholds": [
+    0.33,
+    0.33,
+    0.33,
+    0.33
+  ],
+  "priority": {
+    "type_weight": {
+      "0": 0.4,
+      "1": 0.5,
+      "2": 0.8,
+      "3": 1.0
+    },
+    "size_ref_area": {
+      "0": 0.05,
+      "1": 0.05,
+      "2": 0.25,
+      "3": 0.03
+    },
+    "severity_weights": {
+      "type": 0.4,
+      "size": 0.6
+    },
+    "weights": {
+      "severity": 0.8,
+      "count": 0.2,
+      "confidence": 0.0
+    },
+    "count_ref": 5,
+    "review_conf": 0.5,
+    "bands": [
+      [
+        25,
+        "Low"
+      ],
+      [
+        50,
+        "Medium"
+      ],
+      [
+        75,
+        "High"
+      ],
+      [
+        101,
+        "Critical"
+      ]
+    ]
+  },
+  "protocol": {
+    "rf_hash": "49f92ee3281443fcab6d7b9b388d4b8b996751c2912a8c26800860ced83e62a8",
+    "rfdetr": "1.11.2",
+    "selection": "Recorded validation selection"
+  },
+  "duplicate_detection": {
+    "embedding_dimension": 384,
+    "embedding_fingerprint": "28afe5bb2ce237b4c9f225edfe33e90c9e4299e5b517e644e5e023c2f51a0a4b",
+    "similarity_metric": "cosine",
+    "similarity_threshold": 0.8,
+    "threshold_status": "provisional",
+    "gps_radius_m": 100.0,
+    "merge_policy": "human_confirmation_required"
+  }
+}

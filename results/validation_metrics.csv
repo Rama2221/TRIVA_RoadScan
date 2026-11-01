@@ -1,0 +1,2 @@
+AP50,AP50_95,thresholds,per_class,val_macro_F1
+0.539837,0.263763,"[0.33, 0.33, 0.33, 0.33]",False,0.552668

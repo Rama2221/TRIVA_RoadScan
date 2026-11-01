@@ -1,0 +1,12 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roadscan"
+version = "1.0.0"
+description = "Road damage detection and maintenance prioritization"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["src"]

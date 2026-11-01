@@ -1,0 +1,10 @@
+{
+  "run": "rf_small_512_flip",
+  "resolution": 512,
+  "images": 20,
+  "threads": 4,
+  "mean_model_seconds": 0.3578540051503296,
+  "p95_model_seconds": 0.3943130264002321,
+  "mean_pipeline_seconds": 0.36391631655060336,
+  "scope": "warm CPU detect+priority+draw+JSON serialization; excludes model load/UI/network/disk-save and DINO retrieval"
+}

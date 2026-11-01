@@ -1,0 +1,40 @@
+{
+  "model": "RFDETRSmall",
+  "resolution": 512,
+  "train_hash": "6f4025df016a7e55e21c9ad7f45989185c4bd651739e6a8cad2c012739e00534",
+  "args": {
+    "dataset_file": "roboflow",
+    "epochs": 20,
+    "batch_size": 4,
+    "grad_accum_steps": 4,
+    "eval_batch_size": 4,
+    "lr": 0.0001,
+    "lr_encoder": 0.00015,
+    "lr_scheduler": "cosine",
+    "warmup_epochs": 1.0,
+    "multi_scale": false,
+    "expanded_scales": false,
+    "use_ema": true,
+    "eval_base_model": false,
+    "checkpoint_interval": 5,
+    "early_stopping": false,
+    "run_test": false,
+    "num_workers": 2,
+    "seed": 42,
+    "class_names": [
+      "longitudinal_crack",
+      "transverse_crack",
+      "alligator_crack",
+      "pothole"
+    ],
+    "amp_dtype": "auto",
+    "tensorboard": false,
+    "wandb": false,
+    "progress_bar": "tqdm",
+    "eval_interval": 1,
+    "eval_max_dets": 300,
+    "save_dataset_grids": false
+  },
+  "rfdetr": "1.11.2",
+  "torch": "2.11.0+cu130"
+}

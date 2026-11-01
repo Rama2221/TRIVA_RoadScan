@@ -1,0 +1,5 @@
+{
+  "completed_epochs": 20,
+  "requested_total": 20,
+  "best_weights": "/content/drive/MyDrive/RoadScan_P/RoadScan_RFDETRSmall_20epochs_Priority_v2/rf_small_training/checkpoint_best_total.pth"
+}

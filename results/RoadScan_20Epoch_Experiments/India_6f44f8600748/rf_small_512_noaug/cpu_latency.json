@@ -1,0 +1,10 @@
+{
+  "run": "rf_small_512_noaug",
+  "resolution": 512,
+  "images": 20,
+  "threads": 4,
+  "mean_model_seconds": 0.34746900195023045,
+  "p95_model_seconds": 0.36668410609954666,
+  "mean_pipeline_seconds": 0.353983235999749,
+  "scope": "warm CPU detect+priority+draw+JSON serialization; excludes model load/UI/network/disk-save and DINO retrieval"
+}

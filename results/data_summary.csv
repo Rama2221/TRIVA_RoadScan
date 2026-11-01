@@ -1,0 +1,5 @@
+split,images,boxes
+test,799,1437
+train,6404,11662
+val,797,1433
+saudi_test,100,195

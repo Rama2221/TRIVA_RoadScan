@@ -1,0 +1,102 @@
+{
+  "reason": "Main notebook directory incorrectly emphasized short unexecuted modular entry points; reorganized to expose existing executed originals.",
+  "original_notebook_code_or_outputs_modified": false,
+  "moved_intact": [
+    {
+      "old": "RoadScan_Public_Repo/notebooks/01_Preprocessing.ipynb",
+      "new": "RoadScan_Public_Repo/notebooks/reference_templates/01_Preprocessing.ipynb",
+      "sha256": "d19fa30128a24b54a866c506d5863784386c56cf4b0a65261c6247748c8c0634"
+    },
+    {
+      "old": "RoadScan_Public_Repo/notebooks/02_Classification.ipynb",
+      "new": "RoadScan_Public_Repo/notebooks/reference_templates/02_Classification.ipynb",
+      "sha256": "b796b80ea577dfc10097f315082bf6e3bfdc8b65145830ddce358a507b00b27a"
+    },
+    {
+      "old": "RoadScan_Public_Repo/notebooks/03_Detection.ipynb",
+      "new": "RoadScan_Public_Repo/notebooks/reference_templates/03_Detection.ipynb",
+      "sha256": "9e8e137ac2cdfa3fdc4764c03d51c74f8103a09b481c728d807432714b446332"
+    },
+    {
+      "old": "RoadScan_Public_Repo/notebooks/04_Priority.ipynb",
+      "new": "RoadScan_Public_Repo/notebooks/reference_templates/04_Priority.ipynb",
+      "sha256": "b1d9bf0835646033aec2891794269dd6e4f2560d04b40d88d67216ba33692508"
+    },
+    {
+      "old": "RoadScan_Public_Repo/notebooks/05_Similarity.ipynb",
+      "new": "RoadScan_Public_Repo/notebooks/reference_templates/05_Similarity.ipynb",
+      "sha256": "624911f8260180e1cdca3a393ebfcf9af55cec81da74fdd50d12c367f9332ebe"
+    },
+    {
+      "old": "RoadScan_Public_Repo/notebooks/06_Application.ipynb",
+      "new": "RoadScan_Public_Repo/notebooks/reference_templates/06_Application.ipynb",
+      "sha256": "a7502a366b6edf8ff0245a106c7e3a6388d6c75f1a27e8d538eeaff30386396e"
+    }
+  ],
+  "added_exact_originals": [
+    {
+      "source": "C:\\Users\\ASUS\\OneDrive\\المستندات\\AIEP\\Project\\reports\\report_review\\code\\RoadScan_Detection_GitHub\\RoadScan_GitHub\\notebooks\\01_Preprocessing.ipynb",
+      "destination": "RoadScan_Public_Repo/notebooks/01_Preprocessing.ipynb",
+      "bytes": 3005040,
+      "sha256": "ea152f4b8581514b05a53c9c9e19daa8c348df2114ac3ab4164cb30f024911c3",
+      "reason": "Executed preprocessing with 8 saved figures and validation tables"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\OneDrive\\المستندات\\AIEP\\Project\\RoadScan\\ResNet18_baseline.ipynb",
+      "destination": "RoadScan_Public_Repo/notebooks/ResNet18_baseline.ipynb",
+      "bytes": 52527,
+      "sha256": "7dfb7ef2a728dbb90b3d7c3b52d47b427ce4ecea4ca5184ec0d85a40530dfa20",
+      "reason": "Executed historical ResNet18 baseline with saved test tables"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\notebook703c4b4ceb.ipynb",
+      "destination": "RoadScan_Public_Repo/notebooks/notebook703c4b4ceb.ipynb",
+      "bytes": 73967,
+      "sha256": "01d7c401ede12ab22c361d2431e4c713d37c1a5dc754a5b1330ce8bc99665cff",
+      "reason": "Original RF-DETR notebook with max_epochs=20 reached in saved training log"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\Submit\\01_RoadScan_HeldOutCountry_20Epochs_WithRun.ipynb",
+      "destination": "RoadScan_Public_Repo/notebooks/01_RoadScan_HeldOutCountry_20Epochs_WithRun.ipynb",
+      "bytes": 164776,
+      "sha256": "c937156932d37db4fa34cab035ab13b7289a0702ff14ade48d3daf470fcfb275",
+      "reason": "Original held-out-country notebook with saved outputs"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\Submit\\RoadScan_RFDETRSmall_Training_Backup.zip::rf_small_training/completed.json",
+      "destination": "RoadScan_Public_Repo/results/deployment_training_backup/rf_small_training/completed.json",
+      "bytes": 194,
+      "sha256": "d4d951eab23fdecd678118160787f99d461d7025870c8d5be2122baa5b800f52",
+      "reason": "Original trainer metadata/log extracted byte-for-byte from supplied backup"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\Submit\\RoadScan_RFDETRSmall_Training_Backup.zip::rf_small_training/metrics.csv",
+      "destination": "RoadScan_Public_Repo/results/deployment_training_backup/rf_small_training/metrics.csv",
+      "bytes": 25942,
+      "sha256": "5c4817e647a1f4c69b17cc20f13c2f3464bbd35fcaaf1ed33558d373effdd310",
+      "reason": "Original trainer metadata/log extracted byte-for-byte from supplied backup"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\Submit\\RoadScan_RFDETRSmall_Training_Backup.zip::rf_small_training/roadscan_training_identity.json",
+      "destination": "RoadScan_Public_Repo/results/deployment_training_backup/rf_small_training/roadscan_training_identity.json",
+      "bytes": 928,
+      "sha256": "819fa4ccc7799d18fed2b77d89d8d3604b0e073902f64e7115a961b432e60ae5",
+      "reason": "Original trainer metadata/log extracted byte-for-byte from supplied backup"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\Submit\\RoadScan_RFDETRSmall_Training_Backup.zip::rf_small_training/runtime_current.json",
+      "destination": "RoadScan_Public_Repo/results/deployment_training_backup/rf_small_training/runtime_current.json",
+      "bytes": 83,
+      "sha256": "bafa26aef721324325ba4fcb398abe7ac51ab24386c8160e7a30688b7f161503",
+      "reason": "Original trainer metadata/log extracted byte-for-byte from supplied backup"
+    },
+    {
+      "source": "C:\\Users\\ASUS\\Downloads\\Submit\\RoadScan_RFDETRSmall_Training_Backup.zip::rf_small_training/training_config.json",
+      "destination": "RoadScan_Public_Repo/results/deployment_training_backup/rf_small_training/training_config.json",
+      "bytes": 4439,
+      "sha256": "e78bac837afcf862d4a86690b13767c0d06407708cf8c5a79160290a4078ee34",
+      "reason": "Original trainer metadata/log extracted byte-for-byte from supplied backup"
+    }
+  ],
+  "preserved_workspace_variation": "reference_templates/01_Preprocessing_Workspace_Snapshot.ipynb"
+}

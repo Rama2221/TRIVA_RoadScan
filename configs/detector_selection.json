@@ -1,0 +1,32 @@
+{
+  "method": "rf",
+  "class_names": [
+    "longitudinal_crack",
+    "transverse_crack",
+    "alligator_crack",
+    "pothole"
+  ],
+  "codes": [
+    "D00",
+    "D10",
+    "D20",
+    "D40"
+  ],
+  "thresholds": [
+    0.33,
+    0.33,
+    0.33,
+    0.33
+  ],
+  "rf_resolution": 512,
+  "confidence_floor": 0.001,
+  "max_det": 300,
+  "weights_sha256": "49f92ee3281443fcab6d7b9b388d4b8b996751c2912a8c26800860ced83e62a8",
+  "selection": "Recorded validation macro-F1 selection",
+  "validation": {
+    "AP50": 0.539837,
+    "AP50_95": 0.263763,
+    "macro_F1": 0.552668
+  },
+  "historical_training_split_alignment": "not independently verified"
+}

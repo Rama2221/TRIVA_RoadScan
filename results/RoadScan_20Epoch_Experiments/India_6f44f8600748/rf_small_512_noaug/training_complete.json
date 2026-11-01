@@ -1,0 +1,6 @@
+{
+  "completed_epochs": 20,
+  "weights": "/kaggle/working/RoadScan_20Epoch_Experiments/India_6f44f8600748/rf_small_512_noaug/final_epoch20.ckpt",
+  "sha256": "a9eaa12a79b74fd832cd1cf86d31a48c736728f78faf281dd9345d7eece789b9",
+  "selection": "final non-EMA weights; validation-best is not mislabeled as epoch20"
+}

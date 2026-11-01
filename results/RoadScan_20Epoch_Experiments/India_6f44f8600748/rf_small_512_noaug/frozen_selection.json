@@ -1,0 +1,8 @@
+{
+  "weights_sha256": "a9eaa12a79b74fd832cd1cf86d31a48c736728f78faf281dd9345d7eece789b9",
+  "split_sha256": "6f44f8600748d90ceccd354c1ddcb8f4312a34d5af0b8fbac7b87aaafbbece95",
+  "threshold": 0.61,
+  "selected_on": "non-held-country validation only",
+  "objective": "macro detection F1 at IoU .5; tie lower threshold",
+  "completed_epochs": 20
+}
