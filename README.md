@@ -55,7 +55,7 @@ python scripts/predict_image.py --image "C:\path\to\road.jpg" --output runtime/p
 These are the saved values in `results/detection_metrics.csv`, not newly generated measurements. The RF checkpoint SHA-256 is `49f92ee3281443fcab6d7b9b388d4b8b996751c2912a8c26800860ced83e62a8`. Historical training-split alignment is not independently verified; see the saved model card and configuration. Do not conflate this checkpoint with the separately trained held-out-country experiment models.
 
 The application screenshot example measured 0.1516 seconds for prediction plus confidence filtering on one image, at a demonstration threshold of 0.05. It excludes loading, image decoding, priority calculation, drawing, report writing and UI rendering. It is not a general CPU benchmark or full application latency.
-# Dataset Link: https://drive.google.com/file/d/1BsQFz1DUczqfnV--y-CxnJOWqaO4wB3m/view?usp=sharing
+*Dataset Link:* https://drive.google.com/file/d/1BsQFz1DUczqfnV--y-CxnJOWqaO4wB3m/view?usp=sharing
 
 ## Model weights and training checkpoints
 
